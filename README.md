@@ -28,7 +28,11 @@ npm install
 # Server Start 
 
 -cd hello-prisma 
+```
 npx ts-node main.ts 
+```
 
 # Client start 
+```
 npm run serve
+```
