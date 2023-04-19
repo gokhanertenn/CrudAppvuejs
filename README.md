@@ -33,6 +33,7 @@ npx ts-node main.ts
 ```
 
 # Client start 
+-cd client
 ```
 npm run serve
 ```
