@@ -10,6 +10,8 @@ TypeScript
 
 Fastify
 
+Mysql
+
 Bulma.css
 
 # client
