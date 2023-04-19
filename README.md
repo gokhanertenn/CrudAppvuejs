@@ -1,10 +1,15 @@
 # CrudAppvuejs
 
 # Used technologies
+
 Prisma Orm
+
 Vuejs
+
 TypeScript
+
 Fastify
+
 Bulma.css
 
 # client
